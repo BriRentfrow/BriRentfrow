@@ -37,6 +37,6 @@
 
 ###
 
-<p align="left">I'm Brianna and I graduated from San Jose State with a degree in Computer Science.<br>My previous roles included being an Associate Software Engineer at Nisum and a Technical Support Specialist at 4d.<br>I'm currently looking for a new role.<br><br>🔭 I’m currently working on a blog and Youtube with tech-related tutorials<br>📝 I’m looking to collaborate on projects in the need for documentation to practice Technical Writing<br>🤝 I’m looking for help with Networking</p>
+<p align="left">I'm Brianna and I graduated from San Jose State University with a degree in Computer Science.<br>My previous roles included being an Associate Software Engineer at Nisum and a Technical Support Specialist at 4d. <br>I'm currently looking for a new role and I'm excited to see what I learn during mny next opportunity!<br><br>🔭 I’m currently working on a blog and Youtube with tech-related tutorials<br>📝 I’m looking to collaborate on projects in the need for documentation to practice Technical Writing<br>🤝 I’m looking for help with Networking</p>
 
 ###
